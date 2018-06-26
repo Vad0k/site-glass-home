@@ -1,0 +1,16 @@
+<svg width="17" height="17" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Subtract">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 4 0C 1.79086 0 0 1.79086 0 4L 0 13C 0 15.2091 1.79086 17 4 17L 13 17C 15.2091 17 17 15.2091 17 13L 17 4C 17 1.79086 15.2091 0 13 0L 4 0ZM 12 8.14502C 13.6569 8.14502 15 6.80188 15 5.14502C 15 3.48816 13.6569 2.14502 12 2.14502C 10.3431 2.14502 9 3.48816 9 5.14502C 9 6.80188 10.3431 8.14502 12 8.14502Z" fill="white"/>
+</g>
+<g id="Ellipse 2.4">
+<circle cx="3" cy="3" r="3" transform="translate(2 2.14502)" fill="#9CE44B"/>
+</g>
+<g id="Ellipse 2.1">
+<circle cx="3" cy="3" r="3" transform="translate(9 9)" fill="#D043EC"/>
+</g>
+<g id="Ellipse 2.3">
+<circle cx="3" cy="3" r="3" transform="translate(2 9)" fill="#FFBE5E"/>
+</g>
+</g>
+</svg>

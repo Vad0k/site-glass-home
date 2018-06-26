@@ -1,0 +1,22 @@
+<svg width="33" height="34" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 9.4">
+<g id="Rectangle 21.1">
+<mask id="path-1-inside-1" fill="white">
+<path d="M 0 2C 0 0.895431 0.895431 0 2 0L 31 0C 32.1046 0 33 0.895431 33 2L 33 32C 33 33.1046 32.1046 34 31 34L 2 34C 0.895431 34 0 33.1046 0 32L 0 2Z"/>
+</mask>
+<g mask="url(#path-1-inside-1)">
+<path d="M 2 1L 31 1L 31 -1L 2 -1L 2 1ZM 32 2L 32 32L 34 32L 34 2L 32 2ZM 31 33L 2 33L 2 35L 31 35L 31 33ZM 1 32L 1 2L -1 2L -1 32L 1 32ZM 2 33C 1.44772 33 1 32.5523 1 32L -1 32C -1 33.6569 0.343146 35 2 35L 2 33ZM 32 32C 32 32.5523 31.5523 33 31 33L 31 35C 32.6569 35 34 33.6569 34 32L 32 32ZM 31 1C 31.5523 1 32 1.44772 32 2L 34 2C 34 0.343146 32.6569 -1 31 -1L 31 1ZM 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2C 1 1.44772 1.44772 1 2 1L 2 -1Z" fill="#FE9545"/>
+</g>
+</g>
+<g id="Rectangle 22.1" transform="translate(4.04492 4.14636)">
+<rect width="10.9318" height="24.878" rx="2" fill="#FE9545"/>
+<rect x="0.5" y="0.5" width="9.93182" height="23.878" rx="1.5" stroke="white"/>
+</g>
+<g id="Rectangle 22.3" transform="translate(18 4.14636)">
+<rect width="10.9318" height="24.878" rx="2" fill="#FE9545"/>
+<rect x="0.5" y="0.5" width="9.93182" height="23.878" rx="1.5" stroke="white"/>
+</g>
+</g>
+</g>
+</svg>

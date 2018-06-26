@@ -1,0 +1,19 @@
+<svg width="21" height="34" viewBox="0 0 21 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 9.5">
+<g id="Rectangle 21.1">
+<mask id="path-1-inside-1" fill="white">
+<path d="M 0 2C 0 0.895431 0.895431 0 2 0L 19 0C 20.1046 0 21 0.895431 21 2L 21 32C 21 33.1046 20.1046 34 19 34L 2 34C 0.895431 34 0 33.1046 0 32L 0 2Z"/>
+</mask>
+<g mask="url(#path-1-inside-1)">
+<path d="M 2 1L 19 1L 19 -1L 2 -1L 2 1ZM 20 2L 20 32L 22 32L 22 2L 20 2ZM 19 33L 2 33L 2 35L 19 35L 19 33ZM 1 32L 1 2L -1 2L -1 32L 1 32ZM 2 33C 1.44772 33 1 32.5523 1 32L -1 32C -1 33.6569 0.343146 35 2 35L 2 33ZM 20 32C 20 32.5523 19.5523 33 19 33L 19 35C 20.6569 35 22 33.6569 22 32L 20 32ZM 19 1C 19.5523 1 20 1.44772 20 2L 22 2C 22 0.343146 20.6569 -1 19 -1L 19 1ZM 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2C 1 1.44772 1.44772 1 2 1L 2 -1Z" fill="#FE9545"/>
+</g>
+</g>
+<rect id="Rectangle 23" width="4.2" height="0.829268" rx="0.414634" transform="translate(13.4395 16.5853)" fill="#FE9545"/>
+<g id="Rectangle 22.1" transform="translate(5.03906 4.14636)">
+<rect width="10.92" height="24.878" rx="2" fill="#FE9545"/>
+<rect x="0.5" y="0.5" width="9.92" height="23.878" rx="1.5" stroke="white"/>
+</g>
+</g>
+</g>
+</svg>

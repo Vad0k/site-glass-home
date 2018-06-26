@@ -1,0 +1,17 @@
+<svg width="33" height="34" viewBox="0 0 33 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 9.4">
+<g id="Rectangle 21.1">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M 2 0.5C 1.17157 0.5 0.5 1.17157 0.5 2L 0.5 32C 0.5 32.8284 1.17157 33.5 2 33.5L 31 33.5C 31.8284 33.5 32.5 32.8284 32.5 32L 32.5 2C 32.5 1.17157 31.8284 0.5 31 0.5L 2 0.5Z" stroke-miterlimit="8" stroke="#666CFF"/>
+</g>
+<g id="Rectangle 22.1">
+<rect width="10.9318" height="24.878" rx="2" transform="translate(4.04545 4.14633)" fill="#666CFF"/>
+<rect x="0.5" y="0.5" width="9.93182" height="23.878" rx="1.5" transform="translate(4.04545 4.14633)" stroke="white"/>
+</g>
+<g id="Rectangle 22.3">
+<rect width="10.9318" height="24.878" rx="2" transform="translate(18 4.14633)" fill="#666CFF"/>
+<rect x="0.5" y="0.5" width="9.93182" height="23.878" rx="1.5" transform="translate(18 4.14633)" stroke="white"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="47" height="47" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 10.1">
+<g id="Rectangle 37">
+<path d="M 0 2.61111L 26.1111 2.61111L 28.7222 0L 31.3333 5.22222L 0 5.22222L 0 2.61111Z" transform="translate(15.6667 41.7778)" fill="#DEA73E"/>
+</g>
+<g id="Ellipse">
+<path d="M 46.9999 23.5C 46.9999 36.4787 36.4786 47 23.5 47C 17.1933 47 0 47 0 47C 0 47 0 30.172 0 23.5C 0 10.5213 10.5213 0 23.5 0C 36.4786 0 46.9999 10.5213 46.9999 23.5Z" fill="#FEBF45"/>
+</g>
+<g id="Ellipse 2">
+<ellipse cx="13.0555" cy="13.0555" rx="13.0555" ry="13.0555" transform="translate(10.4443 10.4438)" fill="white"/>
+</g>
+<g id="Ellipse 3">
+<g mask="url(#path3_out1)" transform="translate(20.8889 20.8887)">
+<ellipse cx="2.61111" cy="2.61111" rx="2.61111" ry="2.61111" stroke-width="2" stroke="#DEA73E"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<mask id="path3_out1" maskUnits="userSpaceOnUse" x="-1" y="-1" width="8" height="8" fill="black">
+<rect fill="white" x="-1" y="-1" width="8" height="8"/>
+<ellipse cx="2.61111" cy="2.61111" rx="2.61111" ry="2.61111"/>
+</mask>
+</defs>
+</svg>
